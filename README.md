@@ -6,6 +6,7 @@ Utilized SQLAlchemy is the Python SQL toolkit and Object Relational Mapper that 
 SQLite is a C-language library that implements a SQL database engine. SQLite is the most used database engine in the world. SQLite is built into all mobile phones and most computers and comes bundled inside countless other applications that people use every day.
 
 Source File: https://github.com/vsanand27/surfs_up/blob/master/climate_analysis.ipynb
+
 *Please note the challenge analysis starts at Cell 17 of code
 
 # Purpose
@@ -14,6 +15,7 @@ Review Oahu, Hawaii seasonality weather data difference for the months of June a
 
 ## Executive Summary
 Based on our weather patterns for June and December months across 9 stations in-scope for Ice-Cream and Surf Shop, we observed average rainfall to be 0.14 inches in Jun vs. 0.22 inches in Dec and average Temperature to be 74 degrees in Jun and 71 degrees in Dec.  The rain is changes of rain are more probable in December than June as standard deviation from the mean increases.  December is much cooler than Jun with minimum temperature diving down to 56 degrees.  Rainfall over the years have depleted which may be favorable trend for the ice-cream and surf shop.
+
 Recommendation: We propose to do further analysis to help make better decision for the ice-cream shop:
 1)	Include wind weather pattern to show how wind will impact surfing and the visitors 
 2)	Perform Avg.  number of Days there is sunshine and Rain during June and December.
