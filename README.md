@@ -4,6 +4,9 @@ Investing In Waves &amp; Ice Cream Shop - Perform Weather Analysis of Oahu (Util
 # Tool-Kit
 Utilized SQLAlchemy is the Python SQL toolkit and Object Relational Mapper that gives application developers the full power and flexibility of SQL. 
 SQLite is a C-language library that implements a SQL database engine. SQLite is the most used database engine in the world. SQLite is built into all mobile phones and most computers and comes bundled inside countless other applications that people use every day.
+
+Source File: 
+
 # Purpose
 To determine whether the seasons could affect the surf and ice cream shop business. Specifically, there are certain times of the year mainly June and December when business might be slower, or the type of customer could be different
 Review Oahu, Hawaii seasonality weather data difference for the months of June and December 9 stations utilizing multiple years precipitation and temperature recorded data. The data was provided in SQLite format.
