@@ -10,3 +10,5 @@ Review Oahu, Hawaii seasonality weather data difference for the months of June a
 # Findings
 
 Below are the Rainfall statistics for across stations and years.  Based on our observations, average rainfall in Jun is 0.14 inches vs. Dec 0.22 inches.  Also the standard deviation from mean for June is 0.3 vs. Dec 0.54.  This means we have higher chances of rain in Dec vs. June.  In addition, max rainfall during the month of June is 4.4 inches vs. Dec 6.4 inches.  Also, shown in the table below are the quartiles for the inches of rain, 50% quartile show 0.02 inches of rain vs. Dec 0.3 inches
+
+![alt text]( )
