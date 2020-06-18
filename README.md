@@ -39,5 +39,7 @@ Below are the Temperature statistics for across stations and years.  Based on ou
 ![alt text](https://github.com/vsanand27/surfs_up/blob/master/Temperature%20Statistics%20for%20June%20and%20Dec.PNG)
 
 Histogram for Temperature show similar trends as discussed above. The frequency of Temperature readings show temperature varies between 70 to 74 degrees most of the times.
+
+
 ![alt text](https://github.com/vsanand27/surfs_up/blob/master/Temperature%20Histogram%20for%20June%20and%20Dec.PNG)
 
